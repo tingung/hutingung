@@ -1,4 +1,4 @@
-package hutingung;
+package hutingung.security_violations;
 
 /**
  * https://www.javacodegeeks.com/2012/09/fixing-common-java-security-code.html
