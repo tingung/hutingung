@@ -2,7 +2,7 @@
 devfactory:
   version: 1
   excludes:
-#    - 'src/main/java/hutingung/security_violations/**'
+        - 'src/main/java/hutingung/security_violations/**'
   coverage:
     excludes:
         - 'src/main/java/hutingung/security_violations/**'
